@@ -21,7 +21,7 @@ Built in pure Python, no extra libraries. Just you, your terminal, and vibes.
 1. Clone this repo:  
 
    ```bash
-   git clone https://github.com/YOUR-USERNAME/hangman-countries.git
+   git clone https://github.com/theay6/python-hangman.git
    cd hangman-countries
 
 2. Run the game with Python3
